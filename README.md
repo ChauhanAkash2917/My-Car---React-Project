@@ -54,4 +54,6 @@ CSS Grid & Flexbox for layout finesse
 
 This isn’t just another template — AutoVerse tells a story. From powerful visuals to seamless user flow, every component is crafted to feel like a ride in a luxury car — smooth, sharp, and stylish. It's the perfect project to impress recruiters or clients looking for UI/UX precision and real-world readiness. 💼📱
 
+
+
 ![screencapture-localhost-5174-2025-05-05-12_40_24](https://github.com/user-attachments/assets/d5a01784-eb1a-4b7b-b7f5-1911d119d12c)
